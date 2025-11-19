@@ -1,12 +1,13 @@
-## Hi there 👋
+# 스마트센서와액츄에이터 팀 프로젝트
 
-<!--
+## 기말 조별과제 패치획득게임
 
-**Here are some ideas to get you started:**
+**1단계** : 최단경로 패치획득게임 <br>
+**2단계** : 자유경로 패치획득게 <br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 팀원
+**박재형** : 과탑/과대 <br>
+**이현빈** : 택시운전사 2017년 개봉 <br>
+**전민석** : AI와 바이브코딩의 신 <br>
+**조민** : 학생회의 1인자 <br>
+**윤태웅** : 사람
