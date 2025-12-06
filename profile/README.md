@@ -8,8 +8,14 @@
 ---
 
 ### 팀원
-**박재형** : 과탑/과대 <br>
-**이현빈** : 택시운전사 2017년 개봉 <br>
-**전민석** : AI와 바이브코딩의 신 <br>
-**조&nbsp;&nbsp;&nbsp;민** : 학생회의 1인자 <br>
-**윤태웅** : 사람
+**박재형** : 프로젝트 개발 <br>
+**윤태웅** : PM <br>
+**이현빈** : 프로젝트 개발 <br>
+**전민석** : PPT 제작 및 발표 <br>
+**조&nbsp;&nbsp;&nbsp;민** : PPT 제작 및 발표 <br>
+
+---
+
+## 사용 기술
+![LEGO](https://img.shields.io/badge/LEGO-MINDSTORMS_EV3-FFCB05?style=flat-square&logo=lego&logoColor=black)
+![RobotC](https://img.shields.io/badge/Language-RobotC-00599C?style=flat-square&logo=c&logoColor=white)
